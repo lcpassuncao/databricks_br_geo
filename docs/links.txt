@@ -1,0 +1,37 @@
+References (LINKS):
+
+DATABRICKS LABS - MOSAIC
+https://github.com/databrickslabs/mosaic
+
+DATABRICKS BLOGS
+High Scale Geospatial Processing With Mosaic
+https://www.databricks.com/blog/2022/05/02/high-scale-geospatial-processing-with-mosaic.html
+
+DATABRICKS LABS - GEOSCAN
+https://github.com/databrickslabs/geoscan
+
+==========================================
+OPEN COMMUNITY:
+
+GEOPARQUET
+https://github.com/opengeospatial/geoparquet
+
+
+MAPs to Brazil States
+Developed by Manuel Robalinho
+https://github.com/MRobalinho/GeoPandas_Brasil
+
+
+Eleiçoes Brasil
+Análise dos dados do TSE, eleições municipais de 2020 com Matplotlib
+Autora: Rosangela Lotfi
+https://github.com/Rosangelafl/Eleicoes_Brasil
+
+
+Datasets - TSE dados Eleitorais
+https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais,
+
+Mapa Coroplético das mortes por Covid-19 no Brasil entre 2020-2021 (Dados 28/07/2021)
+Autor: Marcus Costa
+https://github.com/Marcus-V-Freitas/Mapa_Coropletico_mortes_COVID_19_Brasil
+
