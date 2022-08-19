@@ -2,8 +2,16 @@
 Databricks Notebook Brazil Geo Analysis
 
 <BR>
-<BR>
-<BR>
+
+## CASOS DE USO
+
+<img src="https://raw.githubusercontent.com/lcpassuncao/databricks_br_geo/main/images/geo_usecases.jpeg" alt="Casos de Uso" width="800px"/>
+
+
+## ARQUITETURA GEO DATABRICKS
+
+<img src="https://raw.githubusercontent.com/lcpassuncao/databricks_br_geo/main/images/geo_arquitetura.jpeg" alt="AArquitetura" width="800px"/>
+
 
 
 ## DATABRICKS BLOG
